@@ -38,7 +38,7 @@ s_1_1_0020_qseq.txt  s_1_1_0044_qseq.txt  s_1_1_0068_qseq.txt  s_1_1_0092_qseq.t
 s_1_1_0021_qseq.txt  s_1_1_0045_qseq.txt  s_1_1_0069_qseq.txt  s_1_1_0093_qseq.txt  s_1_1_0117_qseq.txt
 s_1_1_0022_qseq.txt  s_1_1_0046_qseq.txt  s_1_1_0070_qseq.txt  s_1_1_0094_qseq.txt  s_1_1_0118_qseq.txt
 s_1_1_0023_qseq.txt  s_1_1_0047_qseq.txt  s_1_1_0071_qseq.txt  s_1_1_0095_qseq.txt  s_1_1_0119_qseq.txt
-s_1_1_0024_qseq.txt  s_1_1_0048_qseq.txt  s_1_1_0072_qseq.txt  s_1_1_0096_qseq.txt  s_1_1_0120_qseq
+s_1_1_0024_qseq.txt  s_1_1_0048_qseq.txt  s_1_1_0072_qseq.txt  s_1_1_0096_qseq.txt  s_1_1_0120_qseq.txt
 ```
 
 If, instead, you are using the output of the GERALD part of the Illumina pipeline, your data will be a little simpler:
