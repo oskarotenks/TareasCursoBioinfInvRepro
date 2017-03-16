@@ -11,7 +11,7 @@
 raw/  samples/  stacks/
 ```
 
-**2**. We will assume that you have placed the raw sequencing data into the raw/ directory. If you are using the raw files output by the BUSTARD part of the pipeline your data will look like this:
+**2**. We will assume that you have placed the raw sequencing data into the `raw/` directory. If you are using the raw files output by the BUSTARD part of the pipeline your data will look like this:
 
 ```
 ~/tutorial/raw% ls
