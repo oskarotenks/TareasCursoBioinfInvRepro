@@ -59,7 +59,7 @@ TGACC
 AACCC
 ACTGC
 ```
-######
+
 After the last two steps, our working directory should look like this:
 
 ```
