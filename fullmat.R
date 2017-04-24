@@ -1,4 +1,4 @@
-# Script Ejercicio Unidad 6
+# Script Tarea 6.2 Unidad 6
 
 # 1. Cargar los datos en una df llamada fullmat
 fullmat<- read.delim(file= paste0(getwd(), "/../meta/maizteocintle_SNP50k_meta_extended.txt"))
