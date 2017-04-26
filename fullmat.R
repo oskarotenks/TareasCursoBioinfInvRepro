@@ -1,7 +1,7 @@
 # Script Tarea 6.2 Unidad 6
 
 # 1. Cargar los datos en una df llamada fullmat
-fullmat<- read.delim(file= paste0(getwd(), "/../meta/maizteocintle_SNP50k_meta_extended.txt"))
+fullmat<-read.delim(file= paste0(getwd(), "/../meta/maizteocintle_SNP50k_meta_extended.txt"))
 
 # 2. ¿Qué tipo de objeto creamos al cargar la base?
 class(fullmat)
@@ -29,13 +29,12 @@ max(fullmat$Altitud)
 min(fullmat$Altitud)
 
 # 10. Crea una nueva df de datos sólo con las muestras de la raza Olotillo
-olotillomat<-fullmat[fullmat$Raza=="Olotillo", ]
+olotillomatriz<-fullmat[fullmat$Raza=="Olotillo", ]
 
 # 11. Crea una nueva df de datos sólo con las muestras de la raza Reventador, Jala y Ancho
 x<-fullmat$Raza %in% c("Reventador", "Jala", "Ancho")
-submat<-fullmat[x, ]
+ReventadorJalaAncho<-fullmat[x, ]
 
 # 12. Escribe la matriz anterior a un archivo llamado "submat.csv" en /meta.
-write.csv(submat, file= paste0(getwd(), "/../meta/submat.csv"))
-
-
+write.csv(ReventadorJalaAncho, file= paste0(getwd(), "/../meta/submat.csv"))
+write.csv(ReventadorJalaAncho, file="/../meta/submat.csv"))
