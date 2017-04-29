@@ -2,7 +2,7 @@
 
 ### Avances 2
 
-#####He leído distintos artículos, los cuales se enfocan en la técnica conocida como Anchored Hybrid Enrichment (AHE):
+##### He leído distintos artículos, los cuales se enfocan en la técnica conocida como Anchored Hybrid Enrichment (AHE):
 
 >·Lemmon, A.R., S. Emme, and E.M. Lemmon. 2012. Anchored hybrid enrichment for massively high-throughput phylogenomics. Systematic Biology 61: 727–744.
 
@@ -10,7 +10,7 @@
 
 >·Mitchell, N., P.O. Lewis, E.M. Lemmon, A.R. Lemmon, and K.E. Holsinger. 2017. Anchored phylogenomics improves the resolution of evolutionary relationships in the rapid radiation of Protea L.. American Journal of Botany 104(1): 102-115.
 
-######He descargado los archivos que se encuentran en el repositorio http://datadryad.org/resource/doi:10.5061/dryad.vj32s. el cual contiene: 
+###### He descargado los archivos que se encuentran en el repositorio http://datadryad.org/resource/doi:10.5061/dryad.vj32s. el cual contiene: 
 >·README
 
 >·Distintos paquetes de secuencias (Completo, UnoPor, Consenso y Reducido)
