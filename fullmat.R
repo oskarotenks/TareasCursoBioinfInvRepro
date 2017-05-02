@@ -37,4 +37,3 @@ ReventadorJalaAncho<-fullmat[x, ]
 
 # 12. Escribe la matriz anterior a un archivo llamado "submat.csv" en /meta.
 write.csv(ReventadorJalaAncho, file= paste0(getwd(), "/../meta/submat.csv"))
-write.csv(ReventadorJalaAncho, file="/../meta/submat.csv"))
