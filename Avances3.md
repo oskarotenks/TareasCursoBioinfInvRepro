@@ -61,7 +61,7 @@ A continuación enlisto las carpetas y archivos que he descargado desde el conte
 _______
 _______
 
-##Actividades a pendientes
+## Actividades a pendientes
 
 · Utilizaré el paquete [ggtre](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12628/epdf) para realizar modificaciones o ediciones en los nodos o ramas de los diversos paquetes de árboles filogenéticos con formato .tre.
 
