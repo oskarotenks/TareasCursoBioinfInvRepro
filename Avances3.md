@@ -51,7 +51,7 @@ A continuación enlisto las carpetas y archivos que he descargado desde el conte
 
 #### Archivos adicionales
 >README.txt (Con la descripción de los archivos contenidos en el repositorio).
->
+
 >Distances.cvs (Contiene las distancias por parejas entre árboles de especies y árboles de genes).
 
 >Internode-Certainty.cvs (Para los 4 conjuntos de árboles, contiene los valores de confianza de los internodos con valores en RAxML, junto con las longitudes de las ramas).
