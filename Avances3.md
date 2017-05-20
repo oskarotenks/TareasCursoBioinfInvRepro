@@ -2,9 +2,9 @@
 
 ### Avances 3
 
-Este es el tercer avance mi proyecto final para el curso de _Introducción a la bioinformática e investigación reproducible para análisis genéticos_, el cual se basa en datos publicados por [Mitchell et al, 2016] (http://www.amjbot.org/content/104/1/102.full.pdf), con su repositorio en [Dryad Digital Repository] (http://datadryad.org/resource/doi:10.5061/dryad.vj32s).
+Este es el tercer avance mi proyecto final para el curso de _Introducción a la bioinformática e investigación reproducible para análisis genéticos_, el cual se basa en datos publicados por [Mitchell et al, 2016](http://www.amjbot.org/content/104/1/102.full.pdf), con su repositorio en [Dryad Digital Repository](http://datadryad.org/resource/doi:10.5061/dryad.vj32s).
 
-A continuación enlisto las carpetas y archivos que he descargado desde el contenedor de [Dryad Digital Repository] (http://datadryad.org/resource/doi:10.5061/dryad.vj32s) junto con los archivos que se contienen dentro de cada carpeta:
+A continuación enlisto las carpetas y archivos que he descargado desde el contenedor de [Dryad Digital Repository](http://datadryad.org/resource/doi:10.5061/dryad.vj32s) junto con los archivos que se contienen dentro de cada carpeta:
 
 · Un archivo "README.txt"
 >Con la descripción de los archivos contenidos en el repositorio.
@@ -47,7 +47,7 @@ A continuación enlisto las carpetas y archivos que he descargado desde el conte
  
 >Species-Trees-OnePer.tre (Árboles generados utilizando el conjunto de datos ONEPER).
  
->Especies-Trees-Reduced.tre (Árboles generados utilizando el conjunto de datos REDUCED).
+>Species-Trees-Reduced.tre (Árboles generados utilizando el conjunto de datos REDUCED).
  
 >Species-Trees-Schnitzler.tre (Árboles generado utilizando datos de Schnitzler et al., conjunto de datos AUGMENTED).
  
