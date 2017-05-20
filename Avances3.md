@@ -62,9 +62,9 @@ A continuación enlisto las carpetas y archivos que he descargado desde el conte
 
 ##### Bibliografía para _Anchored Hybrid Enrichment_ (AHE):
 
-·Lemmon, A.R., S. Emme, and E.M. Lemmon. 2012. Anchored hybrid enrichment for massively high-throughput phylogenomics. Systematic Biology 61: 727–744.
+·Lemmon, A.R., S. Emme, and E.M. Lemmon. 2012. [Anchored hybrid enrichment for massively high-throughput phylogenomics](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/sysbio/61/5/10.1093/sysbio/sys049/2/sys049.pdf?Expires=1495336502&Signature=YoiYLa413RZBsOxAcuEaZEsQVw7YJys5I2qkWXpLJDF61bb~7D4ZHXvwKN~pj-CDv~oKoDjmy-ktk6j69PDtPz96HifESlQVrEgxsqUqtvIkXvUPcBE5o5e3sPxX9evuJl9UW55gw0v3s9IseOMkg~d1rbK-5JCJxDE8pMWrJqBL4KXkkUAFbBEQOpLrrbCThugTSR8W3JgT3JafOZERArHi~HY5tsFOczI0pXldRWwgQaxJX2RiPksTgAFH037aE6fEbw5tgVHfBupcc752tDNRhcp~N2XEmVWZ2DzQSP0waIfBKkZh1w1XMpyWDRe-~fdPw6EhZSN1v9IEioCE0g__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q). Systematic Biology 61: 727–744.
 
-·Buddenhagen, C.E., A.R. Lemmon, E.M. Lemmon, J. Bruhl, J. Cappa, W.L. Clement, M. Donoghue, E. Edwards, A. Hipp, M. Kortyna, N. Mitchell, A. Moore, C. Prychid, M. Segovia-Salcedo, M. Simmons, P. Soltis and S. Wanke. 2016. Anchored phylogenomics of angiosperms I: assessing the robustness of phylogenetic estimates. bioRxiv 086298: 10.1101/086298.
+·Buddenhagen, C.E., A.R. Lemmon, E.M. Lemmon, J. Bruhl, J. Cappa, W.L. Clement, M. Donoghue, E. Edwards, A. Hipp, M. Kortyna, N. Mitchell, A. Moore, C. Prychid, M. Segovia-Salcedo, M. Simmons, P. Soltis and S. Wanke. 2016. [Anchored phylogenomics of angiosperms I: assessing the robustness of phylogenetic estimates](http://biorxiv.org/content/biorxiv/early/2016/11/28/086298.full.pdf). bioRxiv 086298: 10.1101/086298.
 
-·Mitchell, N., P.O. Lewis, E.M. Lemmon, A.R. Lemmon, and K.E. Holsinger. 2017. Anchored phylogenomics improves the resolution of evolutionary relationships in the rapid radiation of Protea L.. American Journal of Botany 104(1): 102-115.
+·Mitchell, N., P.O. Lewis, E.M. Lemmon, A.R. Lemmon, and K.E. Holsinger. 2017. [Anchored phylogenomics improves the resolution of evolutionary relationships in the rapid radiation of Protea L.](http://www.amjbot.org/content/104/1/102.full.pdf) American Journal of Botany 104(1): 102-115.
 
