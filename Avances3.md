@@ -6,9 +6,6 @@ Este es el tercer avance mi proyecto final para el curso de _Introducción a la 
 
 A continuación enlisto las carpetas y archivos que he descargado desde el contenedor de [Dryad Digital Repository](http://datadryad.org/resource/doi:10.5061/dryad.vj32s) junto con los archivos que se contienen dentro de cada carpeta:
 
-· Un archivo "README.txt"
->Con la descripción de los archivos contenidos en el repositorio.
-
 · Una carpeta con el paquete de "Complete-Sequence-Files.zip" 
 >Contiene disversos archivos .phy para los 498 loci y 326 secuencias (dos alelos por individuo).
 
@@ -59,6 +56,13 @@ A continuación enlisto las carpetas y archivos que he descargado desde el conte
 >Internode-Certainty.cvs (Para los 4 conjuntos de árboles, contiene los valores de confianza de los internodos con valores en RAxML, junto con las longitudes de las ramas).
 
 >Locus-Info.cvs (Contiene información sobre los loci, como la longitud, parsimonia entre sitios informativos y las distancias en los árboles)
+
+------------------
+· Un archivo "README.txt"
+------------------
+>Con la descripción de los archivos contenidos en el repositorio.
+
+
 
 
 ##### Bibliografía para _Anchored Hybrid Enrichment_ (AHE):
