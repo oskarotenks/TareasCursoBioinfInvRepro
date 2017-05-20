@@ -77,15 +77,15 @@ _ _ _ _ _ _ _
 
 ## Actividades a pendientes
 
-De acuerdo con los formatos de los archivos con los que se cuenta `.phy, .phylip, .tre`
+De acuerdo con los formatos de los archivos con los que se cuenta `.phy, .phylip, .tre y .csv` se realizará lo siguiente:
 
-· Utilizaré el paquete [ggtre](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12628/epdf) para realizar modificaciones o ediciones en los nodos o ramas de los diversos paquetes de árboles filogenéticos con formato .tre.
+· Para los archivos `.phy y .phylip` utilizaré el paquete [phytools](https://cran.r-project.org/web/packages/phylotools/phylotools.pdf) el cual me será de utilidad para analizar y graficar los árboles filogenéticos, o el paquete [treeio](https://www.bioconductor.org/packages/release/bioc/manuals/treeio/man/treeio.pdf) el cual contiene funciones básicas para analizar y exportar árboles filogenéticos.
 
-· Otra opción es utilizar [diversitree](https://cran.r-project.org/web/packages/diversitree/index.html) con el cual podría evaluar disversos patrones de diversificación, así como tasas de extinción y especiación en contraste con la biogeografía de los archivos .tre.
+· Para los archivo `.tre` utilizaré el paquete [ggtre](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12628/epdf) para realizar modificaciones o ediciones en los nodos o ramas de los diversos paquetes de árboles filogenéticos, o el paquete [diversitree](https://cran.r-project.org/web/packages/diversitree/index.html) con el cual podría evaluar disversos patrones de diversificación, así como tasas de extinción y especiación en contraste con la biogeografía.
 
-· Realizaré gráficas en R con los distintos archivos .csv, los cuales contienen las distancias entre nodos, la información de los locus y la certidumbre de los internodos.
+· Para los archivos `.csv` realizaré graficas en R tomando en cuenta distintas variables como la distancia entre nodos, la información de los locus y la certidumbre de los internodos. 
 
-· Otro punto importante es pedir la asesoría de las profesoras para que me sugieran o recomienden llevar a cabo algún otro análisis con los formatos de los datos que tengo (phy, phylip, csv)
+· Otro punto importante es pedir la asesoría de las profesoras para que me sugieran o recomienden llevar a cabo algún otro análisis de acuerdo con los formatos de los archivos con los que se cuenta.
 
 _ _ _ _ _ _ _
 ## Bibliografía para _Anchored Hybrid Enrichment_ (AHE):
@@ -95,5 +95,3 @@ _ _ _ _ _ _ _
 ·[Buddenhagen](http://biorxiv.org/content/biorxiv/early/2016/11/28/086298.full.pdf), C.E., A.R. Lemmon, E.M. Lemmon, J. Bruhl, J. Cappa, W.L. Clement, M. Donoghue, E. Edwards, A. Hipp, M. Kortyna, N. Mitchell, A. Moore, C. Prychid, M. Segovia-Salcedo, M. Simmons, P. Soltis and S. Wanke. 2016. Anchored phylogenomics of angiosperms I: assessing the robustness of phylogenetic estimates. bioRxiv 086298: 10.1101/086298.
 
 ·[Mitchell](http://www.amjbot.org/content/104/1/102.full.pdf), N., P.O. Lewis, E.M. Lemmon, A.R. Lemmon, and K.E. Holsinger. 2017. Anchored phylogenomics improves the resolution of evolutionary relationships in the rapid radiation of Protea L.. American Journal of Botany 104(1): 102-115.
-
-
