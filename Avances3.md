@@ -53,14 +53,12 @@ A continuación enlisto las carpetas y archivos que he descargado desde el conte
  
 >SVD-bootstrap.tre (100 réplicas de bootstrap del análisis de especies en SVDquartets).
 
-· Un archivo "Distances.cvs"
->Contiene distancias por parejas entre árboles de especies y árboles de genes.
+· Archivos adicionales
+>Distances.cvs (Contiene las distancias por parejas entre árboles de especies y árboles de genes).
 
-· Un archivo "Internode-Certainty.cvs"
->Para los 4 conjuntos de árboles, contiene los valores de confianza de los internodos con valores en RAxML, junto con las longitudes de las ramas.
+>Internode-Certainty.cvs (Para los 4 conjuntos de árboles, contiene los valores de confianza de los internodos con valores en RAxML, junto con las longitudes de las ramas).
 
-· Un archivo "Locus-Info.cvs"
->Contiene información sobre los loci, como la longitud, parsimonia entre sitios informativos y las distancias en los árboles.
+>Locus-Info.cvs (Contiene información sobre los loci, como la longitud, parsimonia entre sitios informativos y las distancias en los árboles)
 
 
 ##### Bibliografía para _Anchored Hybrid Enrichment_ (AHE):
