@@ -2,32 +2,31 @@
 
 ### Avances 3
 
-Este es el tercer avance mi proyecto final para el curso de _Introducción a la bioinformática e investigación reproducible para análisis genéticos_, el cual se basa en datos publicados por [Mitchell et al, 2016](http://www.amjbot.org/content/104/1/102.full.pdf), con su repositorio en [Dryad Digital Repository](http://datadryad.org/resource/doi:10.5061/dryad.vj32s).
+Este es el tercer avance mi proyecto final para el curso de _Introducción a la bioinformática e investigación reproducible para análisis genéticos_, el cual se basa en datos publicados por [Mitchell et al, 2016] (http://www.amjbot.org/content/104/1/102.full.pdf), con su repositorio en [Dryad Digital Repository] (http://datadryad.org/resource/doi:10.5061/dryad.vj32s).
 
-A continuación enlisto las carpetas y archivos que he descargado desde el contenedor de [Dryad Digital Repository](http://datadryad.org/resource/doi:10.5061/dryad.vj32s) junto con los archivos que se contienen dentro de cada carpeta:
+A continuación enlisto las carpetas y archivos que he descargado desde el contenedor de [Dryad Digital Repository] (http://datadryad.org/resource/doi:10.5061/dryad.vj32s) junto con los archivos que se contienen dentro de cada carpeta:
 
-· Una carpeta con el paquete de "Complete-Sequence-Files.zip" 
+####· Una carpeta con el paquete de "Complete-Sequence-Files.zip" 
 >Contiene disversos archivos .phy para los 498 loci y 326 secuencias (dos alelos por individuo).
 
 >Concatenated.phy contiene secuencias para los 498 loci juntos.
 
 >Species-consensus.phy contiene una secuencia concatenada a nivel específico.
 
-· Una carpeta con el paquete de "OnePer-Sequence-Files.zip"
+####· Una carpeta con el paquete de "OnePer-Sequence-Files.zip"
 >Contiene diversos archivos .phylip para los 498 loci y 65 taxones (una secuencia por taxon).
 
 >T74-Concat-OnePer.phy contiene secuencias para los 498 loci juntos.
 
-· Una carpeta con el paquete de "Consensus-Sequence-Files.zip"
-
+####· Una carpeta con el paquete de "Consensus-Sequence-Files.zip"
 >Contiene diversos archivos .phy para los 498 loci y 65 taxones basados ​​en el consenso a nivel específico.
 
 >Consensus.phy contiene secuencias para los 498 loci juntos.
 
-· Una carpeta con el paquete de "Reduced-Sequence-Files.zip"
+####· Una carpeta con el paquete de "Reduced-Sequence-Files.zip"
 >Contiene archivos .phy para un subconjunto de 354 loci y 60 taxa.
 
-· Una carpera con el paquete de "Tree-Files.zip"
+####· Una carpera con el paquete de "Tree-Files.zip"
 >Astral-Bootstrap.tre (100 réplicas de bootstrap del análisis COMPLETO de especies en ASTRAL-II).
  
 >Gene-Trees-Full.tre (498 árboles "mejores" en  RAxML (en orden ascendente)).
@@ -50,18 +49,14 @@ A continuación enlisto las carpetas y archivos que he descargado desde el conte
  
 >SVD-bootstrap.tre (100 réplicas de bootstrap del análisis de especies en SVDquartets).
 
-· Archivos adicionales
+####· Archivos adicionales
+>README.txt (Con la descripción de los archivos contenidos en el repositorio).
+>
 >Distances.cvs (Contiene las distancias por parejas entre árboles de especies y árboles de genes).
 
 >Internode-Certainty.cvs (Para los 4 conjuntos de árboles, contiene los valores de confianza de los internodos con valores en RAxML, junto con las longitudes de las ramas).
 
 >Locus-Info.cvs (Contiene información sobre los loci, como la longitud, parsimonia entre sitios informativos y las distancias en los árboles)
-
-------------------
-· Un archivo "README.txt"
-------------------
->Con la descripción de los archivos contenidos en el repositorio.
-
 
 
 
