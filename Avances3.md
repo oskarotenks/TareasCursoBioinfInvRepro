@@ -87,6 +87,7 @@ De acuerdo con los formatos de los archivos con los que se cuenta `.phy, .phylip
 
 · Otro punto importante es pedir la asesoría de las profesoras para que me sugieran o recomienden llevar a cabo algún otro análisis de acuerdo con los formatos de los archivos con los que se cuenta.
 
+· Enlace al [README](https://github.com/oskarotenks/TareasCursoBioinfInvRepro/blob/master/README.md)
 _ _ _ _ _ _ _
 ## Bibliografía para _Anchored Hybrid Enrichment_ (AHE):
 
