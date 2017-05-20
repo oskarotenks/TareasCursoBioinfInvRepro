@@ -6,27 +6,27 @@ Este es el tercer avance mi proyecto final para el curso de _Introducción a la 
 
 A continuación enlisto las carpetas y archivos que he descargado desde el contenedor de [Dryad Digital Repository](http://datadryad.org/resource/doi:10.5061/dryad.vj32s) junto con los archivos que se contienen dentro de cada carpeta:
 
-#### Una carpeta con el paquete de "Complete-Sequence-Files.zip" 
+#### Una carpeta con el paquete de "[Complete-Sequence-Files.zip](http://datadryad.org/bitstream/handle/10255/dryad.127969/Complete_Sequence_Files.zip?sequence=1)" 
 >Contiene disversos archivos .phy para los 498 loci y 326 secuencias (dos alelos por individuo).
 
 >Concatenated.phy contiene secuencias para los 498 loci juntos.
 
 >Species-consensus.phy contiene una secuencia concatenada a nivel específico.
 
-#### Una carpeta con el paquete de "OnePer-Sequence-Files.zip"
+#### Una carpeta con el paquete de "[OnePer-Sequence-Files.zip](http://datadryad.org/bitstream/handle/10255/dryad.127971/OnePer_Sequence_Files.zip?sequence=1)"
 >Contiene diversos archivos .phylip para los 498 loci y 65 taxones (una secuencia por taxon).
 
 >T74-Concat-OnePer.phy contiene secuencias para los 498 loci juntos.
 
-#### Una carpeta con el paquete de "Consensus-Sequence-Files.zip"
+#### Una carpeta con el paquete de "[Consensus-Sequence-Files.zip](http://datadryad.org/bitstream/handle/10255/dryad.127972/Consensus_Sequence_Files.zip?sequence=1)"
 >Contiene diversos archivos .phy para los 498 loci y 65 taxones basados ​​en el consenso a nivel específico.
 
 >Consensus.phy contiene secuencias para los 498 loci juntos.
 
-#### Una carpeta con el paquete de "Reduced-Sequence-Files.zip"
+#### Una carpeta con el paquete de "[Reduced-Sequence-Files.zip](http://datadryad.org/bitstream/handle/10255/dryad.127973/Reduced_Sequence_Files.zip?sequence=1)"
 >Contiene archivos .phy para un subconjunto de 354 loci y 60 taxa.
 
-#### Una carpera con el paquete de "Tree-Files.zip"
+#### Una carpera con el paquete de "[Tree-Files.zip](http://datadryad.org/bitstream/handle/10255/dryad.127974/Tree_Files.zip?sequence=1)"
 >Astral-Bootstrap.tre (100 réplicas de bootstrap del análisis COMPLETO de especies en ASTRAL-II).
  
 >Gene-Trees-Full.tre (498 árboles "mejores" en  RAxML (en orden ascendente)).
@@ -50,20 +50,21 @@ A continuación enlisto las carpetas y archivos que he descargado desde el conte
 >SVD-bootstrap.tre (100 réplicas de bootstrap del análisis de especies en SVDquartets).
 
 #### Archivos adicionales
->README.txt (Con la descripción de los archivos contenidos en el repositorio).
+>[README.txt](http://datadryad.org/bitstream/handle/10255/dryad.127967/README.txt?sequence=1) (Con la descripción de los archivos contenidos en el repositorio).
 
->Distances.cvs (Contiene las distancias por parejas entre árboles de especies y árboles de genes).
+>[Distances.cvs](http://datadryad.org/bitstream/handle/10255/dryad.127975/Distances.csv?sequence=1) (Contiene las distancias por parejas entre árboles de especies y árboles de genes).
 
->Internode-Certainty.cvs (Para los 4 conjuntos de árboles, contiene los valores de confianza de los internodos con valores en RAxML, junto con las longitudes de las ramas).
+>[Internode-Certainty.cvs](http://datadryad.org/bitstream/handle/10255/dryad.127976/Internode_Certainty.csv?sequence=1) (Para los 4 conjuntos de árboles, contiene los valores de confianza de los internodos con valores en RAxML, junto con las longitudes de las ramas).
 
->Locus-Info.cvs (Contiene información sobre los loci, como la longitud, parsimonia entre sitios informativos y las distancias en los árboles)
+>[Locus-Info.cvs](http://datadryad.org/bitstream/handle/10255/dryad.127977/Locus_Info.csv?sequence=1) (Contiene información sobre los loci, como la longitud, parsimonia entre sitios informativos y las distancias en los árboles)
 
 
 
 ##### Bibliografía para _Anchored Hybrid Enrichment_ (AHE):
 
->·Lemmon, A.R., S. Emme, and E.M. Lemmon. 2012. Anchored hybrid enrichment for massively high-throughput phylogenomics. Systematic Biology 61: 727–744.
+·Lemmon, A.R., S. Emme, and E.M. Lemmon. 2012. Anchored hybrid enrichment for massively high-throughput phylogenomics. Systematic Biology 61: 727–744.
 
->·Buddenhagen, C.E., A.R. Lemmon, E.M. Lemmon, J. Bruhl, J. Cappa, W.L. Clement, M. Donoghue, E. Edwards, A. Hipp, M. Kortyna, N. Mitchell, A. Moore, C. Prychid, M. Segovia-Salcedo, M. Simmons, P. Soltis and S. Wanke. 2016. Anchored phylogenomics of angiosperms I: assessing the robustness of phylogenetic estimates. bioRxiv 086298: 10.1101/086298.
+·Buddenhagen, C.E., A.R. Lemmon, E.M. Lemmon, J. Bruhl, J. Cappa, W.L. Clement, M. Donoghue, E. Edwards, A. Hipp, M. Kortyna, N. Mitchell, A. Moore, C. Prychid, M. Segovia-Salcedo, M. Simmons, P. Soltis and S. Wanke. 2016. Anchored phylogenomics of angiosperms I: assessing the robustness of phylogenetic estimates. bioRxiv 086298: 10.1101/086298.
 
->·Mitchell, N., P.O. Lewis, E.M. Lemmon, A.R. Lemmon, and K.E. Holsinger. 2017. Anchored phylogenomics improves the resolution of evolutionary relationships in the rapid radiation of Protea L.. American Journal of Botany 104(1): 102-115.
+·Mitchell, N., P.O. Lewis, E.M. Lemmon, A.R. Lemmon, and K.E. Holsinger. 2017. Anchored phylogenomics improves the resolution of evolutionary relationships in the rapid radiation of Protea L.. American Journal of Botany 104(1): 102-115.
+
