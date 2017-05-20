@@ -9,28 +9,28 @@ A continuación enlisto las carpetas y archivos que he descargado desde el conte
 · Un archivo "README.txt"
 >Con la descripción de los archivos contenidos en el repositorio.
 
-· Un archivo con el paquete de "Complete-Sequence-Files.zip" 
+· Una carpeta con el paquete de "Complete-Sequence-Files.zip" 
 >Contiene disversos archivos .phy para los 498 loci y 326 secuencias (dos alelos por individuo).
 
 >Concatenated.phy contiene secuencias para los 498 loci juntos.
 
 >Species-consensus.phy contiene una secuencia concatenada a nivel específico.
 
-· Un archivo con el paquete de "OnePer-Sequence-Files.zip"
+· Una carpeta con el paquete de "OnePer-Sequence-Files.zip"
 >Contiene diversos archivos .phylip para los 498 loci y 65 taxones (una secuencia por taxon).
 
 >T74-Concat-OnePer.phy contiene secuencias para los 498 loci juntos.
 
-· Un archivo con el paquete de "Consensus-Sequence-Files.zip"
+· Una carpeta con el paquete de "Consensus-Sequence-Files.zip"
 
 >Contiene diversos archivos .phy para los 498 loci y 65 taxones basados ​​en el consenso a nivel específico.
 
 >Consensus.phy contiene secuencias para los 498 loci juntos.
 
-· Un archivo con el paquete de "Reduced-Sequence-Files.zip"
+· Una carpeta con el paquete de "Reduced-Sequence-Files.zip"
 >Contiene archivos .phy para un subconjunto de 354 loci y 60 taxa.
 
-· Un archivo con el paquete de "Tree-Files.zip"
+· Una carpera con el paquete de "Tree-Files.zip"
 >Astral-Bootstrap.tre (100 réplicas de bootstrap del análisis COMPLETO de especies en ASTRAL-II).
  
 >Gene-Trees-Full.tre (498 árboles "mejores" en  RAxML (en orden ascendente)).
