@@ -52,19 +52,30 @@ A continuación enlisto las carpetas y archivos que he descargado desde el conte
 #### Archivos adicionales
 >[README.txt](http://datadryad.org/bitstream/handle/10255/dryad.127967/README.txt?sequence=1) (Con la descripción de los archivos contenidos en el repositorio).
 
->[Distances.cvs](http://datadryad.org/bitstream/handle/10255/dryad.127975/Distances.csv?sequence=1) (Contiene las distancias por parejas entre árboles de especies y árboles de genes).
+>[Distances.csv](http://datadryad.org/bitstream/handle/10255/dryad.127975/Distances.csv?sequence=1) (Contiene las distancias por parejas entre árboles de especies y árboles de genes).
 
->[Internode-Certainty.cvs](http://datadryad.org/bitstream/handle/10255/dryad.127976/Internode_Certainty.csv?sequence=1) (Para los 4 conjuntos de árboles, contiene los valores de confianza de los internodos con valores en RAxML, junto con las longitudes de las ramas).
+>[Internode-Certainty.csv](http://datadryad.org/bitstream/handle/10255/dryad.127976/Internode_Certainty.csv?sequence=1) (Para los 4 conjuntos de árboles, contiene los valores de confianza de los internodos con valores en RAxML, junto con las longitudes de las ramas).
 
->[Locus-Info.cvs](http://datadryad.org/bitstream/handle/10255/dryad.127977/Locus_Info.csv?sequence=1) (Contiene información sobre los loci, como la longitud, parsimonia entre sitios informativos y las distancias en los árboles)
+>[Locus-Info.csv](http://datadryad.org/bitstream/handle/10255/dryad.127977/Locus_Info.csv?sequence=1) (Contiene información sobre los loci, como la longitud, parsimonia entre sitios informativos y las distancias en los árboles)
 
+_______
+_______
 
+##Actividades a pendientes
+
+· Utilizaré el paquete [ggtre](http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12628/epdf) para realizar modificaciones o ediciones en los nodos o ramas de los diversos paquetes de árboles filogenéticos con formato .tre.
+
+· Otra opción es utilizar [diversitree](https://cran.r-project.org/web/packages/diversitree/index.html) con el cual podría evaluar disversos patrones de diversificación, así como tasas de extinción y especiación en contraste con la biogeografía de los archivos .tre.
+
+· Realizaré gráficas en R con los distintos archivos .csv, los cuales contienen las distancias entre nodos, la información de los locus y la certidumbre de los internodos.
+
+· Otro punto importante es pedir la asesoría de las profesoras para que me sugieran o recomienden llevar a cabo algún otro análisis con los formatos de los datos que tengo (phy, phylip, csv)
 
 ##### Bibliografía para _Anchored Hybrid Enrichment_ (AHE):
 
-·Lemmon, A.R., S. Emme, and E.M. Lemmon. 2012. [Anchored hybrid enrichment for massively high-throughput phylogenomics](https://oup.silverchair-cdn.com/oup/backfile/Content_public/Journal/sysbio/61/5/10.1093/sysbio/sys049/2/sys049.pdf?Expires=1495336502&Signature=YoiYLa413RZBsOxAcuEaZEsQVw7YJys5I2qkWXpLJDF61bb~7D4ZHXvwKN~pj-CDv~oKoDjmy-ktk6j69PDtPz96HifESlQVrEgxsqUqtvIkXvUPcBE5o5e3sPxX9evuJl9UW55gw0v3s9IseOMkg~d1rbK-5JCJxDE8pMWrJqBL4KXkkUAFbBEQOpLrrbCThugTSR8W3JgT3JafOZERArHi~HY5tsFOczI0pXldRWwgQaxJX2RiPksTgAFH037aE6fEbw5tgVHfBupcc752tDNRhcp~N2XEmVWZ2DzQSP0waIfBKkZh1w1XMpyWDRe-~fdPw6EhZSN1v9IEioCE0g__&Key-Pair-Id=APKAIUCZBIA4LVPAVW3Q). Systematic Biology 61: 727–744.
+·Lemmon, A.R., S. Emme, and E.M. Lemmon. 2012. Anchored hybrid enrichment for massively high-throughput phylogenomics. Systematic Biology 61: 727–744.
 
-·Buddenhagen, C.E., A.R. Lemmon, E.M. Lemmon, J. Bruhl, J. Cappa, W.L. Clement, M. Donoghue, E. Edwards, A. Hipp, M. Kortyna, N. Mitchell, A. Moore, C. Prychid, M. Segovia-Salcedo, M. Simmons, P. Soltis and S. Wanke. 2016. [Anchored phylogenomics of angiosperms I: assessing the robustness of phylogenetic estimates](http://biorxiv.org/content/biorxiv/early/2016/11/28/086298.full.pdf). bioRxiv 086298: 10.1101/086298.
+·Buddenhagen, C.E., A.R. Lemmon, E.M. Lemmon, J. Bruhl, J. Cappa, W.L. Clement, M. Donoghue, E. Edwards, A. Hipp, M. Kortyna, N. Mitchell, A. Moore, C. Prychid, M. Segovia-Salcedo, M. Simmons, P. Soltis and S. Wanke. 2016. Anchored phylogenomics of angiosperms I: assessing the robustness of phylogenetic estimates. bioRxiv 086298: 10.1101/086298.
 
-·Mitchell, N., P.O. Lewis, E.M. Lemmon, A.R. Lemmon, and K.E. Holsinger. 2017. [Anchored phylogenomics improves the resolution of evolutionary relationships in the rapid radiation of Protea L.](http://www.amjbot.org/content/104/1/102.full.pdf) American Journal of Botany 104(1): 102-115.
+·Mitchell, N., P.O. Lewis, E.M. Lemmon, A.R. Lemmon, and K.E. Holsinger. 2017. Anchored phylogenomics improves the resolution of evolutionary relationships in the rapid radiation of Protea L.. American Journal of Botany 104(1): 102-115.
 
